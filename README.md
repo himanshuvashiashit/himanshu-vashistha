@@ -1,2 +1,3 @@
-# himanshu-vashistha
-this is my first recogeter
+# vashistha vashu dev
+this is my first repostony
+himanshu vashistha
